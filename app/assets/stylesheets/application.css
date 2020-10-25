@@ -969,7 +969,7 @@ textarea {
 
 
 .loved {
-  background-image: url("/parts7.png");
+  background-image: image-url("/parts7.png");
   background-repeat: no-repeat;
   height: 36px;
   width: 36px;
@@ -987,7 +987,7 @@ textarea {
 
 
 .love {
-  background-image: url("/parts5.png");
+  background-image: image-url("/parts5.png");
   background-repeat: no-repeat;
   height: 36px;
   width: 36px;
